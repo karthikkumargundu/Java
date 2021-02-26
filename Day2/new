@@ -1,0 +1,8 @@
+private String address;
+	private String mobile;
+	
+	String getName()
+	{
+		return name;
+	}
+	String getAddress()
